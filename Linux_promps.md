@@ -1,5 +1,5 @@
 
-# 📂 Explorador de archivos
+## 📂 Explorador de archivos
 
 Para poder abrir el explorador de archivos en Linux 🐧, Tenemos que revisar la version que tenemos.
 Si tienes una versión de Linux que es Ubuntu 20.04 o superior, puedes abrir el explorador de archivos de la siguiente manera:
